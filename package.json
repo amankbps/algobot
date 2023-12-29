@@ -1,0 +1,22 @@
+{
+  "name": "algobot",
+  "version": "1.0.0",
+  "description": "new telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amankbps/algobot.git"
+  },
+  "author": "Amankbps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amankbps/algobot/issues"
+  },
+  "homepage": "https://github.com/amankbps/algobot#readme",
+  "dependencies": {
+    "telegraf": "^4.15.3"
+  }
+}
